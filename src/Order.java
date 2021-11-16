@@ -1,6 +1,6 @@
 import java.time.LocalDate;
 
-public class Order {
+public class item {
         private LocalDate orderDate;
         private Customer customer;
         private Item[] items;
